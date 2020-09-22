@@ -8,3 +8,5 @@ github_repo: "https://github.com/hackathon-in-a-box/hackathon-in-a-box.org"
 
 plugins:
   - jekyll-redirect-from
+
+theme: jekyll-theme-slate
